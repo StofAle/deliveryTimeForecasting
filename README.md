@@ -1,4 +1,4 @@
-# Forecasting model for delivery times
+# Forecasting model for food delivery arrival times
 
 
 This repository contains 
